@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f252d7e6-59ab-4e28-a56c-f0ae87390e1a" name="Kosta@HOME-PC 2011-11-19 15:14:26" runUser="Home-PC\Kosta" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="6b4d2539-3977-40f1-a3a3-101031a57b69">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Kosta_HOME-PC 2011-11-19 15_14_26">
+      <DeploymentItem filename="C:\Users\Kosta\documents\visual studio 2010\Projects\SportsStore\SportsStore.Web\bin\SportsStore.Web.dll" />
+      <DeploymentItem filename="C:\Users\Kosta\documents\visual studio 2010\Projects\SportsStore\packages\Ninject.2.2.1.4\lib\net40-Full\Ninject.dll" />
+      <DeploymentItem filename="C:\Users\Kosta\documents\visual studio 2010\Projects\SportsStore\packages\EntityFramework.4.2.0.0\lib\net40\EntityFramework.dll" />
+      <DeploymentItem filename="C:\Users\Kosta\documents\visual studio 2010\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll" />
+      <DeploymentItem filename="C:\Users\Kosta\documents\visual studio 2010\Projects\SportsStore\packages\Moq.4.0.10827\lib\NET40\Moq.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-11-19T15:14:26.4203725+02:00" queuing="2011-11-19T15:14:26.5363792+02:00" start="2011-11-19T15:14:26.6303845+02:00" finish="2011-11-19T15:14:27.9594606+02:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CanPaginateTest" storage="c:\users\kosta\documents\visual studio 2010\projects\sportsstore\testproject\bin\debug\testproject.dll" id="2e0ddae7-ec42-2a0c-cdd6-afa42b10a0cb">
+      <Execution id="edb5ca4b-b64a-487d-8dcd-e9b28fbb73ba" />
+      <TestMethod codeBase="C:/Users/Kosta/documents/visual studio 2010/Projects/SportsStore/TestProject/bin/Debug/TestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject.ProductControllerTest, TestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CanPaginateTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2e0ddae7-ec42-2a0c-cdd6-afa42b10a0cb" executionId="edb5ca4b-b64a-487d-8dcd-e9b28fbb73ba" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="edb5ca4b-b64a-487d-8dcd-e9b28fbb73ba" testId="2e0ddae7-ec42-2a0c-cdd6-afa42b10a0cb" testName="CanPaginateTest" computerName="HOME-PC" duration="00:00:00.5577109" startTime="2011-11-19T15:14:26.7403908+02:00" endTime="2011-11-19T15:14:27.7894508+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="edb5ca4b-b64a-487d-8dcd-e9b28fbb73ba">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestProject.ProductControllerTest.CanPaginateTest threw exception: 
+System.IndexOutOfRangeException: Index was outside the bounds of the array.</Message>
+          <StackTrace>    at TestProject.ProductControllerTest.CanPaginateTest() in C:\Users\Kosta\documents\visual studio 2010\Projects\SportsStore\TestProject\ProductControllerTest.cs:line 41
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
