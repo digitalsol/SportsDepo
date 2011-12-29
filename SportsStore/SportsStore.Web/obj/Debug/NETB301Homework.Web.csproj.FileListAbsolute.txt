@@ -1,0 +1,15 @@
+C:\Users\Kosta\documents\visual studio 2010\Projects\SportsStore\SportsStore.Web\bin\SportsStore.Web.dll
+C:\Users\Kosta\documents\visual studio 2010\Projects\SportsStore\SportsStore.Web\bin\SportsStore.Web.pdb
+C:\Users\Kosta\documents\visual studio 2010\Projects\SportsStore\SportsStore.Web\bin\EntityFramework.dll
+C:\Users\Kosta\documents\visual studio 2010\Projects\SportsStore\SportsStore.Web\bin\Moq.dll
+C:\Users\Kosta\documents\visual studio 2010\Projects\SportsStore\SportsStore.Web\bin\Ninject.dll
+C:\Users\Kosta\documents\visual studio 2010\Projects\SportsStore\SportsStore.Web\bin\SportsStore.Domain.dll
+C:\Users\Kosta\documents\visual studio 2010\Projects\SportsStore\SportsStore.Web\bin\SportsStore.Domain.pdb
+C:\Users\Kosta\documents\visual studio 2010\Projects\SportsStore\SportsStore.Web\bin\EntityFramework.xml
+C:\Users\Kosta\documents\visual studio 2010\Projects\SportsStore\SportsStore.Web\bin\Moq.pdb
+C:\Users\Kosta\documents\visual studio 2010\Projects\SportsStore\SportsStore.Web\bin\Moq.xml
+C:\Users\Kosta\documents\visual studio 2010\Projects\SportsStore\SportsStore.Web\bin\Ninject.pdb
+C:\Users\Kosta\documents\visual studio 2010\Projects\SportsStore\SportsStore.Web\bin\Ninject.xml
+C:\Users\Kosta\documents\visual studio 2010\Projects\SportsStore\SportsStore.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kosta\documents\visual studio 2010\Projects\SportsStore\SportsStore.Web\obj\Debug\SportsStore.Web.dll
+C:\Users\Kosta\documents\visual studio 2010\Projects\SportsStore\SportsStore.Web\obj\Debug\SportsStore.Web.pdb
